@@ -4,7 +4,7 @@
     margin: 0;
 }
 
-/* Background Color */
+/* General Background Color */
 body {
     background-color: #d9dcd6;
 }
@@ -50,7 +50,7 @@ a {
     text-decoration: none;
 }
 
-/* Body Font Size */
+/* General Body Font Size */
 p {
     font-size: 16px;
 }
