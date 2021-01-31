@@ -7,6 +7,9 @@ The new website has minor but signifigant changes. Before the "Search Engine Opt
 Link:
 https://leediamo.github.io/The-reWorks/
 
+![](images/Screen%20Shot%202021-01-30%20at%2010.46.53%20PM.png)
+![](images/Screen%20Shot%202021-01-30%20at%2010.47.20%20PM.png)
+![](images/Screen%20Shot%202021-01-30%20at%2010.47.31%20PM.png)
 
 
 
